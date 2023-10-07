@@ -4,6 +4,8 @@ Projeto de estudo utilizando React Hook Form e Zod para validação com Typescri
 
 Exemplo de formulário simples de cadastro de cliente.
 
+Acesso o projeto online -> [Página online](https://symphonious-mermaid-e8b249.netlify.app/) 🚀
+
 ## Aplicado ao projeto
 - Vite
 - React
